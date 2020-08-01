@@ -13,4 +13,4 @@ From Server's side, simply add javascript code that sends the command to the cli
 </script>
 
 
-TODO: Implement the server side code
+TODO: Implement the server side code.
